@@ -2,7 +2,9 @@
 
 
 <body>
-<h1> Hi, I’m KM-0O7 </h1>
+<h1> SOLO game dev for a metroidvania. Hoping for a release before college or in college 🍃.
+
+LPCI</h1>
 </body>
 
 
