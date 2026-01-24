@@ -2,7 +2,7 @@
 
 
 <body>
-<h1> SOLO game dev for a metroidvania. Hoping for a release before college or in college 🍃.
+<h1> SOLO game dev for a large metroidvania. 7 years maybe?🍃
 
 LPCI</h1>
 </body>
