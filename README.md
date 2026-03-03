@@ -3,8 +3,9 @@
 
 <body>
 <h1> SOLO game dev for a large metroidvania. 7 years maybe?🍃
-C# supremacy
-LPCI</h1>
+LPCI
+
+C# supremacy</h1>
 </body>
 
 
